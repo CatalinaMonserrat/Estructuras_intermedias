@@ -29,6 +29,6 @@ Este ejercicio tiene como propósito reforzar el manejo de estructuras de datos 
 
 - `estructuras_intermedias.py` contiene todo el desarrollo del ejercicio, dividido en secciones claras por actividad.
 
-## ✅ Ejecución
+## Ejecución
 
 Este script está escrito en Python 3 y no requiere librerías externas. Para ejecutarlo:
